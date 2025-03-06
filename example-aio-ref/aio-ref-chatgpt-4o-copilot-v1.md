@@ -39,8 +39,8 @@ This layer includes Azure IoT Operations enabled by Azure Arc, user Kubernetes w
 graph TD
     subgraph Edge
         subgraph Azure IoT Operations
-            CONN1[Connector for ONVIF (preview)]
-            CONN2[Media connector (preview)]
+            CONN1[Connector for ONVIF - preview]
+            CONN2[Media connector - preview]
             CONN3[Connector for OPC UA]
             MQTT[MQTT broker]
             DATA[Dataflows]

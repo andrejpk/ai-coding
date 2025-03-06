@@ -62,6 +62,8 @@ graph TD
     end
 ```
 
+_apk: fixed markdown syntax error that prevented rendering_
+
 ### 3. Azure Layer
 
 This layer includes various Azure services and the Azure IoT Operations Experience portal.

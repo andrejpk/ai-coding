@@ -14,9 +14,13 @@ Create a single Markdown file. Use only the info from the image. Only include wh
 
 ## Output
 
+run in VSCode with GitHub Copilot Chat (Edit mode) on Mar-06-2025:
+
+- [ChatGPT 4o](aio-ref-chatgpt-4o-copilot-v1.md)
+
+run in [T3 Chat Pro](https://t3.chat/) on Mar-06-2025:
+
 - [ChatGPT 4o](aio-ref-chatgpt-4o-v1.md)
 - [Gemini 2.0 Flash - Low](aio-ref-gemini-2-flash-v1.md)
 - [Claude Sonnet 3.7 Reasoning - Low](aio-ref-claude-37-reasoning-low-v1.md)
 - [Claude Sonnet 3.7 Reasoning - High](aio-ref-claude-37-reasoning-high-v1.md)
-
-all run in [T3 Chat Pro](https://t3.chat/) on Mar-06-2025

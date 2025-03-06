@@ -14,7 +14,7 @@ Create a single Markdown file. Use only the info from the image. Only include wh
 
 ## Output
 
-
+- [ChatGPT 4o](aio-ref-chatgpt-4o-v1.md)
 - [Gemini 2.0 Flash - Low](aio-ref-gemini-2-flash-v1.md)
 - [Claude Sonnet 3.7 Reasoning - Low](aio-ref-claude-37-reasoning-low-v1.md)
 - [Claude Sonnet 3.7 Reasoning - High](aio-ref-claude-37-reasoning-high-v1.md)

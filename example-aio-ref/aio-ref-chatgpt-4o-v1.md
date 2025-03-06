@@ -1,4 +1,3 @@
-```markdown
 # Detailed Design Document for Azure IoT Operations Architecture
 
 This document provides a detailed breakdown of the architecture depicted in the provided diagram. The architecture is organized into layers and subsystems, with components and their relationships described in detail. Mermaid diagrams are included to visualize the structure and relationships between components.

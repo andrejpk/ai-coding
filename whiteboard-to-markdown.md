@@ -14,7 +14,7 @@ Create a markdown file in /work
 Use only the info from the image. Ignore everything else in the repo for now, We are just documenting what's in the image. Only include what's in the image. Include everything in the image and nothing else.
 ```
 
-[Test Results with Azure Docs sample](../example-aio-ref/README.md)
+[Test Results with Azure Docs sample](./example-aio-ref/README.md)
 
 Challenges:
 - Inconsistent file create/edit output -- often rendered markdown 
